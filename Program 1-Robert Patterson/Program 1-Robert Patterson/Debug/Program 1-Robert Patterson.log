@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Rober\source\repos\Program 1-Robert Patterson\Program 1-Robert Patterson\Source.cpp(1,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Rober\source\repos\Program 1-Robert Patterson\Program 1-Robert Patterson\Source.cpp(2,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Rober\source\repos\Program 1-Robert Patterson\Program 1-Robert Patterson\Source.cpp(3,10): warning C4067:  unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Rober\source\repos\Program 1-Robert Patterson\Program 1-Robert Patterson\Source.cpp(15,6): warning C4102:  'start': unreferenced label
+  Program 1-Robert Patterson.vcxproj -> C:\Users\Rober\source\repos\Program 1-Robert Patterson\Debug\Program 1-Robert Patterson.exe
