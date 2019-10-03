@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Rober\Desktop\CS201-Program-Submission\CS 201R\Program 4\Program 4\Source.cpp(12,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Rober\Desktop\CS201-Program-Submission\CS 201R\Program 4\Program 4\Source.cpp(15,21): warning C4018:  '<': signed/unsigned mismatch
+  Program 4.vcxproj -> C:\Users\Rober\Desktop\CS201-Program-Submission\CS 201R\Program 4\Debug\Program 4.exe
